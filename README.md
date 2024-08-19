@@ -72,6 +72,6 @@ Once the stack is created successfully, you can access and use the VPC and assoc
 ## Documentation
 For detailed documentation on the project, please refer to the [documentation directory](docs/).
 
-<h1 align="center">THANK YOU! </h1>
+
 
 
